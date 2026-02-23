@@ -1,2 +1,11 @@
 # 42_Born2BeRoot
-make machine ahahah kill me
+
+*This project has been created as part of the 42 curriculum by asyeo.*
+
+## Description
+
+## Instructions
+
+## Resources
+
+### Footnotes
